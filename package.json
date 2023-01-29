@@ -1,0 +1,10 @@
+{
+  "name": "skysports-technical-task",
+  "description": "Starter project to complete the Sky Sports technical task",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
